@@ -16,4 +16,4 @@ BTech Mathematics & Computing student at NSUT, Dwarka Delhi.
 Python, C, SQL, Git
 
 ## Find me
-LinkedIn: https://www.linkedin.com/in/advik-jain-134013411
+LinkedIn: [https://www.linkedin.com/in/advikj]
